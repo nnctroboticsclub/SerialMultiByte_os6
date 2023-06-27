@@ -1,4 +1,4 @@
 # SerialMultiByte_os6
 sikennshitenaikaraugokukawakaranaiyo(warai)
-試験してないから動くかわからないよ(笑)
+試験してないから動くかわからないよ(笑)\n
 安沢さんのシリアルマルチバイトライブラリをos6用に変えた。ワンちゃんArduinoにも使えるのでは
